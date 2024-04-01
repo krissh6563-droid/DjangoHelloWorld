@@ -93,7 +93,7 @@ Contributions are welcome! Please feel free to submit a pull request.
 
 ## Authors
 
-- [Your Name](https://github.com/your_username) - Initial work
+- [Shri Krishan](https://github.com/krissh6563) - Initial work
 
 ## License
 
