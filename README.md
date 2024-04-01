@@ -58,7 +58,7 @@ This project simply displays a "Hello, World!" message on the homepage.
 
 ## Project Structure
 
-```
+###
 project_name/
 │
 ├── project_name/
