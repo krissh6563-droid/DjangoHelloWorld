@@ -106,6 +106,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - etc.
 ```
 
-## Live Link
+## Built With
 
-- [Click Me](https://djangohelloworld-1q6v.onrender.com)
+- [Click Me](https://djangohelloworld-1q6v.onrender.com/) - Rende Has used for deployment 
